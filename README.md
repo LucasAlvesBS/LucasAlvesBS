@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Lucas Alves
 
-- 🔭 Meu objetivo é trabalhar com back-end
-- 🌱 Atualmente, estudo a linguagem C
+- 🔭 Meu objetivo é trabalhar com back-end, utilizando a linguagem NodeJS
 - 😄 Pronouns: ele/dele
 
 <div align="center">
