@@ -1,6 +1,7 @@
-## Olá! Eu sou o Lucas Alves
+## Olá! Eu sou o Lucas Alves!
 
-- 🔭 Meu objetivo é trabalhar com Desenvolvimento back-end, utilizando a linguagem NodeJS
+- 🔭 Atualmente, estou desenvolvendo na linguagem NodeJS
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas na Unit
 - 😄 Pronouns: ele/dele
 
 <div align="center">
