@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente, estou desenvolvendo na linguagem NodeJS
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas na Unit
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: ele/dele.
 
 <div align="center">
   <a href="https://github.com/LucasAlvesBS">
