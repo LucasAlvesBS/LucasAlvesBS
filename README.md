@@ -2,11 +2,11 @@
 
 - 🔭 Atualmente, estou desenvolvendo na linguagem NodeJS
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas na Unit
-- 😄 Pronouns: ele/dele.
+- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/LucasAlvesBS">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasAlvesBS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvesBS&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
