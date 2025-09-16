@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Alves!
 
 - 🔭 Atualmente, estou desenvolvendo na linguagem NodeJS
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas na Unit
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas na Unit
 - 😄 Pronouns: ele/dele
 
 <div align="center">
